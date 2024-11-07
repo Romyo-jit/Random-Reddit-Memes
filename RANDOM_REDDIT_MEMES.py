@@ -3,7 +3,7 @@ import json
 import os, time
 import threading
 
-os.chdir("/sdcard/Documents/Pydroid3/My_Projects/RandomRedditMemes")
+#os.chdir("/sdcard/Documents/Pydroid3/My_Projects/RandomRedditMemes")
 url = "https://meme-api.com/gimme/wholesomememes/"
 def task():
     while True:
